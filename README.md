@@ -53,7 +53,7 @@ Aqui no meu GitHub, você vai encontrar projetos voltados para:
 ## 📫 Como me encontrar
 
 - 📧 Email: samu.hwf@gmail.com
-- 💼 LinkedIn: (https://www.linkedin.com/in/samuelwenceslau/)
+- 💼 LinkedIn: https://www.linkedin.com/in/samuelwenceslau/
 - 🌐 Portfólio: *em construção*
 
 ## 📫 Me encontre nas redes
