@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+Web+%F0%9F%9A%80;Apaixonado+por+tecnologia+e+c%C3%B3digo+%F0%9F%A7%A0;Sempre+aprendendo%2C+sempre+evoluindo+%E2%9C%A8)](https://github.com/samuelhenriique)
  
 </div>
----
  
 ## 👨‍💻 Sobre mim
  
@@ -50,31 +49,22 @@ Olá! Sou o **Samuel Henrique**, desenvolvedor apaixonado por construir soluçõ
 [![GitHub Streak](https://streak-stats.demolab.com?user=samuelhenriique&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff)](https://github.com/samuelhenriique)
  
 </div>
----
  
-## 🗂️ Projetos em Destaque
- 
-> Aqui no meu GitHub você vai encontrar projetos como:
- 
-| Área | Descrição |
-|------|-----------|
-| 💸 **Financeiro** | Sistemas de controle e gestão financeira |
-| 🗓️ **Agendamento** | Plataformas de marcação e gerenciamento de horários |
-| 📦 **Protheus / ADVPL** | Estudos, customizações e soluções para Totvs |
-| 📊 **Automações** | Relatórios e automações administrativas |
- 
----
  
 ## 🤝 Vamos nos conectar!
  
 <div align="left">
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelwenceslau/)
+ 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelhenriique)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samu.hwf@gmail.com)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuell.dev)
  
 </div>
----
+
  
 <div align="center">
 
