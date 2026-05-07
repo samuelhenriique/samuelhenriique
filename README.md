@@ -39,7 +39,8 @@ Olá! Sou o **Samuel Henrique**, desenvolvedor apaixonado por construir soluçõ
 ## 📊 GitHub Stats
  
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelhenriique&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+ 
+<img height="180em" src="https://github-readme stats.vercel.app/apiusername=samuelhenriique&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhenriique&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
