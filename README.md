@@ -5,7 +5,7 @@
  
 </div>
  
-## 👨‍💻 Sobre mim
+## Sobre mim
  
 Olá! Sou o **Samuel Henrique**, desenvolvedor apaixonado por construir soluções criativas e funcionais. Busco constantemente novos desafios que me façam crescer como profissional e como pessoa.
  
@@ -16,26 +16,26 @@ Olá! Sou o **Samuel Henrique**, desenvolvedor apaixonado por construir soluçõ
 - 📫 **samu.hwf@gmail.com**
 ---
  
-## 🚀 Stack de Tecnologias
+## Stack de Tecnologias
  
-### 🎨 Front-end
+### Front-end
  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
 </p>
-### ⚙️ Back-end
+### Back-end
  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,mysql,postgres" />
 </p>
-### 🛠️ Ferramentas & DevOps
+### Ferramentas & DevOps
  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,linux" />
 </p>
 ---
  
-## 📊 GitHub Stats
+## GitHub Stats
  
 <div align="center">
 
@@ -50,7 +50,7 @@ Olá! Sou o **Samuel Henrique**, desenvolvedor apaixonado por construir soluçõ
 </div>
  
  
-## 🤝 Vamos nos conectar!
+## Vamos nos conectar!
  
 <div align="left">
  
@@ -66,7 +66,7 @@ Olá! Sou o **Samuel Henrique**, desenvolvedor apaixonado por construir soluçõ
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer" />
 
-**⭐ Obrigado por visitar meu perfil!**  
-*Se quiser bater um papo sobre código, ideias de projeto ou trocar experiências — pode chamar!* 🚀
+**Obrigado por visitar meu perfil!**  
+*Se quiser bater um papo sobre código, ideias de projeto ou trocar experiências  pode chamar!*
  
 </div>
