@@ -41,9 +41,12 @@ Olá! Sou o **Samuel Henrique**, desenvolvedor apaixonado por construir soluçõ
  
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelhenriique&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhenriique&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhenriique&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
 </div>
 <div align="center">
+ 
 [![GitHub Streak](https://streak-stats.demolab.com?user=samuelhenriique&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff)](https://github.com/samuelhenriique)
  
 </div>
@@ -74,7 +77,9 @@ Olá! Sou o **Samuel Henrique**, desenvolvedor apaixonado por construir soluçõ
 ---
  
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer" />
+
 **⭐ Obrigado por visitar meu perfil!**  
 *Se quiser bater um papo sobre código, ideias de projeto ou trocar experiências — pode chamar!* 🚀
  
