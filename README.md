@@ -51,13 +51,6 @@ Olá! Sou o **Samuel Henrique**, desenvolvedor apaixonado por construir soluçõ
 </div>
 <div align="center">
  
-<a href="https://github.com/samuelhenriique">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelhenriique&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
- 
-</a>
-</div>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=samuelhenriique&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
  
  
