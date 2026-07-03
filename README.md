@@ -10,7 +10,7 @@
 Olá! Sou o **Samuel Henrique**, desenvolvedor apaixonado por construir soluções criativas e funcionais. Busco constantemente novos desafios que me façam crescer como profissional e como pessoa.
  
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🛠️ Focado em desenvolvimento **Web Full Stack**
+- 🛠️ Focado em desenvolvimento **Full Stack**
 - 💼 Experiência com **PHP · Laravel · Node.js · JavaScript · React · CSS3 · SQL Server · MySQL · PostgreSQL**
 - 📍 **Criciúma, Santa Catarina — Brasil 🇧🇷**
 - 📫 **samu.hwf@gmail.com**
