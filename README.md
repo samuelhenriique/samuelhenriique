@@ -1,66 +1,77 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Samuel%20Henrique&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Brasil%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=58&descSize=18&animation=fadeIn" />
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+Web+%F0%9F%9A%80;Apaixonado+por+tecnologia+e+c%C3%B3digo+%F0%9F%A7%A0;Sempre+aprendendo%2C+sempre+evoluindo+%E2%9C%A8)](https://github.com/samuelhenriique)
- 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Samuel%20Henrique&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Brasil&descAlignY=58&descSize=18&animation=fadeIn" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+Web;Construindo+solu%C3%A7%C3%B5es+com+c%C3%B3digo;Sempre+aprendendo+e+evoluindo)](https://git.io/typing-svg)
+
 </div>
- 
+
 ## Sobre mim
- 
-Olá! Sou o **Samuel Henrique**, desenvolvedor apaixonado por construir soluções criativas e funcionais. Busco constantemente novos desafios que me façam crescer como profissional e como pessoa.
- 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🛠️ Focado em desenvolvimento **Full Stack**
-- 💼 Experiência com **PHP · Laravel · Node.js · JavaScript · React · CSS3 · SQL Server · MySQL · PostgreSQL**
-- 📍 **Criciúma, Santa Catarina — Brasil 🇧🇷**
-- 📫 **samu.hwf@gmail.com**
----
- 
-## Stack de Tecnologias
- 
+
+Olá, eu sou o **Samuel Henrique**, desenvolvedor Full Stack em formação, focado em criar soluções funcionais, bem estruturadas e com boa experiência de uso.
+
+Atualmente estudo **Análise e Desenvolvimento de Sistemas** e venho desenvolvendo projetos com tecnologias modernas para web, back-end e banco de dados.
+
+- Desenvolvedor Full Stack Web
+- Estudante de Análise e Desenvolvimento de Sistemas
+- Criciúma, Santa Catarina - Brasil
+- Contato: **samu.hwf@gmail.com**
+
+## Tecnologias
+
 ### Front-end
- 
-<p align="left">
+
+<p>
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
 </p>
+
 ### Back-end
- 
-<p align="left">
+
+<p>
   <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,mysql,postgres" />
 </p>
-### Ferramentas & DevOps
- 
-<p align="left">
+
+### Ferramentas
+
+<p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,linux" />
 </p>
----
- 
-## GitHub Stats
- 
-<a href="https://github.com/samuelhenriique">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelhenriique&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-</a>
-</div>
 
- 
- 
-## Vamos nos conectar!
- 
-<div align="left">
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelwenceslau/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelhenriique)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samu.hwf@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuell.dev)
- 
-</div>
+## GitHub
 
- 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer" />
+<a href="https://github.com/samuelhenriique">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samuelhenriique&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
 
-**Obrigado por visitar meu perfil!**  
-*Se quiser bater um papo sobre código, ideias de projeto ou trocar experiências  pode chamar!*
- 
+<a href="https://github.com/samuelhenriique">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelhenriique&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" />
+</a>
+
+</div>
+
+## Onde me encontrar
+
+<p>
+  <a href="https://www.linkedin.com/in/samuelwenceslau/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/samuelhenriique">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:samu.hwf@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/samuell.dev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" />
+
+**Obrigado por visitar meu perfil.**
+
 </div>
