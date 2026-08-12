@@ -37,12 +37,6 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas** e venho desenvolven
   <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,linux" />
 </p>
 
-<a href="https://github.com/samuelhenriique">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelhenriique&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" />
-</a>
-
-</div>
-
 ## Onde me encontrar
 
 <p>
